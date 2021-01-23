@@ -1,0 +1,2 @@
+# springCRUD
+try out openshift 
